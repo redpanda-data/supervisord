@@ -22,11 +22,8 @@ require (
 	github.com/ochinchina/supervisord/types v0.0.0-20210503132557-74b0760cc12e
 	github.com/ochinchina/supervisord/util v0.0.0-20210503132557-74b0760cc12e
 	github.com/ochinchina/supervisord/xmlrpcclient v0.0.0-20210503132557-74b0760cc12e
-	github.com/prometheus/client_golang v1.10.0
-	github.com/prometheus/common v0.23.0 // indirect
+	github.com/prometheus/client_golang v1.11.1
 	github.com/sirupsen/logrus v1.8.1
-	golang.org/x/net v0.0.0-20210503060351-7fd8e65b6420
-	golang.org/x/sys v0.0.0-20210503080704-8803ae5d1324 // indirect
 )
 
 replace (
